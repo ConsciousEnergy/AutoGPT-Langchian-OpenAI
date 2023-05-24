@@ -2,7 +2,6 @@
 
 [Warning: very beta, may change drastically]
 
-[Google Form](https://forms.gle/aAhZ6nEUybdzVbYq6) for submitting new prompts.
 
 ## Introduction
 
